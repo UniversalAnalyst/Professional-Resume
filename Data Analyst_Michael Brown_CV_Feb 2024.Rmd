@@ -1,0 +1,69 @@
+---
+title: "Michael E. Brown"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### <u>Contact Information</u>
+<b>Email</b> brown.michael.edward@gmail.com<br><b>Phone</b> 520-360-7874<br><b>Website</b> https://www.linkedin.com/in/michael-brown-458b8517<br>
+
+### <u>Professional Summary</u>
+Experienced data professional seeking new challenges and career advancement in Business Data Analytics in Biotechnology industry. <br>
+
+Increases stakeholder confidence and business competitiveness by providing relevant, simple, and effective financial and quality data insights that uncover inefficiencies and enable creation of corrective and preventative actions. <br>
+
+Leverages deep experience in applying strategic, automated data solutions in Operations and Project Management functions to generate improved financial outcomes to the business. <br>
+
+### <u>Relevant Skills & Experience</u>
+* Data Processing, Modeling,  & Analysis (SQL, Excel, R)
+* Data Visualization & Reporting (Power BI, Tableau, R programming)
+* Project Management (Requirements management, Scheduling, & Forecasting)
+* Effective Communication & Presentation Skills
+* Statistical Methodologies (Descriptive and Inferential Statistics, Logistic Regression, DoE)
+* Ability to thrive in FDA/ISO regulated environments
+
+### <u>Professional Experience</u>
+<b>Data Analyst</b><br>
+Baymar Solutions, Irvine, CA (Remote) •  <i>June 2021-Present</i><br>
+
+* Increased profitability by implementing project financial data monitoring tools through Power BI.  
+* Leveraged advanced data analytics to deploy integrated dashboards and automated reporting.
+  * Conceptualized, developed, tested, and deployed Power BI dashboards, enabling continuous monitoring of financial KPIs such as planned vs actual spend, budget health, and staff time allocation.
+    * Within three months of deployment, reduced over-budget projects by 10% compared to all prior 2023 projects. Used phpMyAdmin MySQL (subqueries, joins, convert, case, and aggregation functions) to process Quickbooks-based data visuals, facilitating rapid resource issue identification and resolution.
+  * Developed quote building tool with reference class estimation to improve client contract creation process and project budgeting.
+    * Reduced quote delivery from 60 to 30 minutes by transforming data with SQL and Power Query.  Staff cost estimation was facilitated through comparison of past project summary statistics (mean, median, variance).
+  * Automated Quality Assurance reporting using custom R script, providing team with immediate feedback into Quality metrics.
+    * Eliminated 30 minutes of weekly manual Excel charting by automating the collection, cleaning, conversion, and visualization of JSON data from Clickup productivity tool using R markdown.  R functions/packages include sapply, ifelse, ggplot, and dplyr.
+
+<b>Operational Excellence Manager</b><br>
+Baxter Healthcare, Irvine, CA  •  <i>Nov 2020- Feb 2021</i>
+
+* Collaborated with Operations leads to develop and improve plant KPIs
+* Led Strategic Planning meeting with Senior Leadership team to develop 2021 plant objectives and action plan.
+* Managed site monthly KPI reporting for monitoring Safety, Quality, Delivery and Cost divisional OpEx targets.
+
+<b>Senior Technical Lead</b><br>
+Roche Sequencing Solutions, Santa Clara, CA  •  <i>2017-2020</i>
+
+* Functioned as Global Operations liaison for HTP GEN 1 Sequencer Project team within the Systems Lifecycle department. 
+* Coordinated with R&D, Quality, Regulatory, and Operations teams to develop transfer plans and ensure a robust product launch.
+
+<b>Process Engineer</b><br>
+Roche Tissue Diagnostics, Tucson, AZ  •  <i>2011-2017</i>
+
+* Led and implemented improvement projects within Manufacturing department through analysis of product & process data and execution of equipment validation protocols.
+
+### <u>Certifications</u>
+* Google Data Analytics Professional Certificate (Google, Coursera), May 2022
+* Data Analysis with R (IBM, Coursera), Feb 2024 
+* Intermediate SQL (CSU Fullerton Extension), September 2022
+* Certified Six Sigma Black Belt (ASQ), March 2020
+
+### <u>Education</u>
+* M.S. Biomedical Engineering, University of Kentucky, Aug 2007
+* B.S. Biosystems Engineering, University of Arizona, May 2005
+
