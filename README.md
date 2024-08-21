@@ -14,9 +14,9 @@ Experienced data professional targeting career growth in Business Data Analytics
 ## Certifications
 
 - Microsoft Certified: Power BI Data Analyst Associate - Aug 2024
-- Google Data Analytics Professional Certificate (Coursera) - May 2022
 - Data Analysis with R (IBM via Coursera) - Feb 2024
 - Intermediate SQL (CSU Fullerton Extension) - September 2022
+- Google Data Analytics Professional Certificate (Coursera) - May 2022
 - Certified Six Sigma Black Belt (ASQ) - March 2020
 
 ## Education
