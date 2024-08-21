@@ -4,7 +4,7 @@ Experienced data professional targeting career growth in Business Data Analytics
 
 ## Relevant Skills & Experience
 
-- **Data Processing, Modeling, & Analysis:** Proficient in SQL, Excel, R
+- **Data Processing, Modeling, & Analysis:** Proficient in Power BI, SQL, Excel, R
 - **Data Visualization & Reporting:** Skilled in Power BI, Tableau, R programming
 - **Project Management:** Adept in requirements management, scheduling, & forecasting
 - **Communication:** Strong presentation and communication abilities
@@ -13,6 +13,7 @@ Experienced data professional targeting career growth in Business Data Analytics
 
 ## Certifications
 
+- Microsoft Certified: Power BI Data Analyst Associate - Aug 2024
 - Google Data Analytics Professional Certificate (Coursera) - May 2022
 - Data Analysis with R (IBM via Coursera) - Feb 2024
 - Intermediate SQL (CSU Fullerton Extension) - September 2022
@@ -20,16 +21,16 @@ Experienced data professional targeting career growth in Business Data Analytics
 
 ## Education
 
-- M.S. Biomedical Engineering, University of Kentucky - Aug 2007
-- B.S. Biosystems Engineering, University of Arizona - May 2005
+- M.S. Biomedical Engineering, University of Kentucky
+- B.S. Biosystems Engineering, University of Arizona
 
 ## Professional Experience
 
 ### Data Analyst / Senior Project Manager
-**Baymar Solutions, Irvine, CA (Remote)** - June 2021-Present
+**Baymar Solutions, Irvine, CA (Remote)** - June 2021- May 2024
 - Enhanced profitability via Power BI for financial data monitoring.
-- Developed Power BI dashboards for financial KPIs, reducing over-budget projects by 10%.
-- Streamlined quote delivery and staff cost estimation using SQL and Power Query.
+- Developed Power BI reports for financial monitoring, reducing over-budget projects by 10%.
+- Streamlined quote delivery and staff cost estimation using SQL and Power BI integration with Quickbooks.
 - Automated Quality Assurance reporting with custom R scripts.
 
 ### Operational Excellence Manager
